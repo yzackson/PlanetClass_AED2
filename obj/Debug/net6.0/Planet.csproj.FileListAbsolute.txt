@@ -1,0 +1,15 @@
+C:\Dev\Faculdade\Planet\obj\Debug\net6.0\Planet.csproj.AssemblyReference.cache
+C:\Dev\Faculdade\Planet\obj\Debug\net6.0\Planet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Faculdade\Planet\obj\Debug\net6.0\Planet.AssemblyInfoInputs.cache
+C:\Dev\Faculdade\Planet\obj\Debug\net6.0\Planet.AssemblyInfo.cs
+C:\Dev\Faculdade\Planet\obj\Debug\net6.0\Planet.csproj.CoreCompileInputs.cache
+C:\Dev\Faculdade\Planet\bin\Debug\net6.0\Planet.exe
+C:\Dev\Faculdade\Planet\bin\Debug\net6.0\Planet.deps.json
+C:\Dev\Faculdade\Planet\bin\Debug\net6.0\Planet.runtimeconfig.json
+C:\Dev\Faculdade\Planet\bin\Debug\net6.0\Planet.dll
+C:\Dev\Faculdade\Planet\bin\Debug\net6.0\Planet.pdb
+C:\Dev\Faculdade\Planet\obj\Debug\net6.0\Planet.dll
+C:\Dev\Faculdade\Planet\obj\Debug\net6.0\refint\Planet.dll
+C:\Dev\Faculdade\Planet\obj\Debug\net6.0\Planet.pdb
+C:\Dev\Faculdade\Planet\obj\Debug\net6.0\Planet.genruntimeconfig.cache
+C:\Dev\Faculdade\Planet\obj\Debug\net6.0\ref\Planet.dll
